@@ -1,1 +1,1 @@
-# wifi-setup-web-ui
+# Web UI for WiFi setup
